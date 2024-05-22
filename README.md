@@ -196,7 +196,7 @@ characters beyhond the limit are ignored.
 To get shell access to a the running container, execute the following command:
 
 ```
-docker exec -ti CONTAINER sh
+docker exec -it CONTAINER sh
 ```
 
 Where `CONTAINER` is the ID or the name of the container used during its

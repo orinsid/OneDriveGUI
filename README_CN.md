@@ -24,15 +24,15 @@ OneDrive for Linux的配置请查看[使用文档](https://github.com/abraunegg/
 ![运行示例](https://github.com/orinsid/OneDriveGUI/blob/main/example.jpg?raw=true)
 ### 指示：
 
-将任何本地端口映射到 5800 以进行 Web 访问
+- 将任何本地端口映射到 5800 以进行 Web 访问
 
-**重要：** 使用web访问请参阅[反向代理](#反向代理)配置端口
+  **重要：** 使用web访问请参阅[反向代理](#反向代理)配置端口
 
-将任何本地端口映射到 5900 以进行 VNC 访问
+- 将任何本地端口映射到 5900 以进行 VNC 访问
 
-将本地卷映射到 /config（存储配置数据）
+- 将本地卷映射到 /config（存储配置数据）
 
-将本地卷映射到 /data（访问数据文件）
+- 将本地卷映射到 /data（访问数据文件）
 示例运行命令：
 #### Docker
 ```bash

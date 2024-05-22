@@ -1,0 +1,6 @@
+[test]
+config_file = /root/.config/onedrive/accounts/test/config
+auto_sync = False
+account_type = 
+free_space = 
+

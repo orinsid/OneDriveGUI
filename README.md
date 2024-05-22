@@ -27,7 +27,7 @@ For the configuration of OneDrive for Linux, please see [Usage Documentation](ht
 Instructions:
 - Map any local port to 5800 for web access
 
-  **Important:** To use web access, please refer to [Reverse Proxy](#ReverseProxy) to configure the port
+  **Important:** To use web access, please refer to [ReverseProxy](#reverse-proxy) to configure the port
 - Map any local port to 5900 for VNC access
 - Map a local volume to /config (Stores configuration data)
 - Map a local volume to /data (Access data files)

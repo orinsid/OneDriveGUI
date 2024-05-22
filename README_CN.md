@@ -10,6 +10,7 @@ Documentation: [English](https://github.com/orinsid/OneDriveGUI/blob/main/README
 [OneDriveGUI](https://github.com/bpozdena/OneDriveGUI) ，[OneDrive for Linux](https://github.com/abraunegg/onedrive) ，[docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui)
 
 **项目信息：**
+
 alpine: 3.19
 
 OneDriveGUI: [v1.1.0-rc1](https://github.com/bpozdena/OneDriveGUI/tree/v1.1.0-rc1)
